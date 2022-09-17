@@ -6,7 +6,7 @@ This is an analysis of Citibike user data from New York City in August 2019. It 
 
 - Please note that the raw data included an "Unknown" gender option. Errors in birth year for this category makes it clear that this is faulty data rather than intentional self-ID; "Unknown" has therefore been excluded from graphs breaking down gender.
 
-[link to dashboard](https://public.tableau.com/app/profile/christine.gendron/viz/Bikesharing_Data/CitibikeAnalysis)
+[Dashboard](https://public.tableau.com/app/profile/christine.gendron/viz/Bikesharing_Data/CitibikeAnalysis)
 
 ## Results
 
