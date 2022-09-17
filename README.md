@@ -32,12 +32,14 @@ This is an analysis of Citibike user data from New York City in August 2019. It 
 
 - Finally, this map shows the starting stations in Manhatten by popularity. Generally, the most popular stations are in lower Manhattan.
 
+![map](Images/top_startstations.png)
+
 ## Summary
 
 - Based on this Analysis, the times when most users are active are weekday rush hours. Subscribers are also the most likely to be riding during these times. Men use Citibike significantly more often than women. The stations that are used most often are downtown. This indicates that core users are men who regularly use Citibike to commute to and from work.
 
-- Furthur analysis suggestions:
+Furthur analysis suggestions:
 
--- We could break down overall rides by the age of the rider.
--- We could break down ride length by age.
--- We could look at the frequency that specific bikes are ridden.
+- We could break down overall rides by the age of the rider.
+- We could break down ride length by age.
+- We could look at the frequency that specific bikes are ridden.
