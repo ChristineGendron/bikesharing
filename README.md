@@ -10,7 +10,7 @@ This is an analysis of Citibike user data from New York City in August 2019. It 
 
 ## Results
 
-- The two below visualizations show total number of rides and the length of those rides across all users:
+- The first visualization below shows the total number of rides. The second shows the length of those rides across all users:
 
 ![total and all ride length](Images/num_of_users.png)
 
